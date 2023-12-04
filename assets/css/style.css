@@ -21,7 +21,6 @@ h1 {
     text-transform: uppercase;
     font-size: 2rem;
 }
-
 .container-fluid.nav {
     padding-left: var(--zero);
 }
@@ -89,9 +88,9 @@ h1 {
     height: 300px;
     object-fit: cover;
 }
-.card-img-top {
+.card .card-img-top {
     height: 300px;
     object-fit: cover;
-    background-position: top;
+    object-position: var(--zero) 0;
 }
 
