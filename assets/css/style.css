@@ -31,7 +31,7 @@ h1 {
 .navbar {
     padding: 10px var(--zero);
 }
-.customNav {
+.bgDark {
     background-color: var(--color-dark-blue) !important;
 }
 .navbar-brand {
@@ -93,4 +93,12 @@ h1 {
     object-fit: cover;
     object-position: var(--zero) 0;
 }
-
+.footer-social-icon {
+    color: #fff;
+}
+.footer-social-icon:hover {
+    opacity: 70%;
+}
+.hover-shadow:hover {
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.3);
+}
