@@ -71,7 +71,7 @@ h1 {
 }
 .hero-subtitle h2 {
     font-size: 1.5rem;
-    font-weight: 600;
+    font-weight: 700;
     margin-bottom: var(--zero);
     padding: 5px;
 }
@@ -89,5 +89,9 @@ h1 {
     height: 300px;
     object-fit: cover;
 }
-
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+    background-position: top;
+}
 
