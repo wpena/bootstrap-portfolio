@@ -12,6 +12,7 @@ N/A
 Open the website in the browser of your choosing and test it, making sure all links and any functionality on the page works.
 
 Below is a screenshot of what the site, looks like: 
+![pena-bootstrap-portfolio](https://github.com/wpena/bootstrap-portfolio/assets/38634790/41f11b94-b443-432e-bfab-76ad2f480daf)
 
 ## Credits
 Used getbootstrap for cards, grid, lists and footer.
